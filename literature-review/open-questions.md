@@ -1,13 +1,23 @@
-## Question #1
+# Open Questions
 
-Source:
-<paper>
+## Q1
 
-Observation:
-LoRa performance was evaluated in terrestrial environments.
+Can adaptive telemetry outperform static telemetry?
 
-Potential Gap:
-No evaluation during high-altitude balloon flights.
+Status:
+Investigating
 
 Importance:
-Could affect telemetry reliability.
+High
+
+<br>
+
+## Q2
+
+Does humidity significantly impact packet loss?
+
+Status:
+Investigating
+
+Importance:
+Medium
