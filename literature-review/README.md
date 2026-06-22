@@ -1,26 +1,37 @@
-# Reminders
-Consider:
+# Literature Review
+
+## Reminders
+Consider these questions while reading research:
 
     What question did they answer?
     What didn't they answer?
     What limitations did they acknowledge?
 
+<br>
 
-## 6/22 - 7/6
-Document:
+## Open Questions
 
-    high altitude telemetry research
+### Communications
 
-    near-space communications
+- What are the largest causes of telemetry failure?
+- How is telemetry reliability typically measured?
+- What communication systems are used in near-space missions?
 
-    weather balloon telemetry
+### Antennas
 
-    APRS balloon telemetry
+- How important is antenna geometry compared to transmission power?
+- What antenna designs are commonly used for weather balloons?
+- How does antenna orientation affect communication reliability?
 
-    atmospheric effects on radio propagation
+### Atmospheric Effects
 
-    adaptive communication systems
+- Which atmospheric variables most affect RF performance?
+- How significant are humidity effects?
+- How significant are altitude effects?
 
-    telemetry reliability research
+### Adaptive Systems
 
-    high altitude communications experiments
+- Have adaptive telemetry systems already been studied?
+- What communication parameters can be adjusted dynamically?
+- Can telemetry degradation be predicted before failure occurs?
+
