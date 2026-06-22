@@ -1,6 +1,13 @@
-# Open Questions
+## Question #1
 
-- How does antenna orientation affect packet recovery during ascent?
-- How does humidity affect LoRa performance?
-- Can adaptive packet sizing improve data recovery?
-- Can telemetry systems predict communication degradation?
+Source:
+<paper>
+
+Observation:
+LoRa performance was evaluated in terrestrial environments.
+
+Potential Gap:
+No evaluation during high-altitude balloon flights.
+
+Importance:
+Could affect telemetry reliability.
