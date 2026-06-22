@@ -27,18 +27,18 @@ Literature Review Phase
 
 ## Planned Research Workflow
 
-Literature Review
-↓
-Research Question Development
-↓
-Experimental Design
-↓
-Ground Testing
-↓
-Prototype Development
-↓
-Flight Validation
-↓
-Analysis
-↓
-Science Fair Submission
+    Literature Review
+    ↓
+    Research Question Development
+    ↓
+    Experimental Design
+    ↓
+    Ground Testing
+    ↓
+    Prototype Development
+    ↓
+    Flight Validation
+    ↓
+    Analysis
+    ↓
+    Science Fair Submission
