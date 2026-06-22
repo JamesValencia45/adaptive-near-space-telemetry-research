@@ -3,21 +3,17 @@
 ## 2026-06-22
 
 Paper:
-<Title>
+    <Title>
 
 Field:
-Telemetry
+    Telemetry
 
 Key Findings:
--gfggggggdz
 
 Limitations:
--
 
-Interesting Ideas:
--
+
+interesting Ideas:
+
 
 Potential Research Questions:
--
-
----
