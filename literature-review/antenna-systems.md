@@ -6,7 +6,9 @@
 - How does antenna geometry affect performance?
 - What factors influence signal quality?
 
----
+<br>
+
+## Notes
 
 ### 6/22/2026
 
